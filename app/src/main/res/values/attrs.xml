@@ -93,6 +93,7 @@
     <attr name="timelineEventApproved" format="reference" />
     <attr name="timelineEventRequestedChanges" format="reference" />
     <attr name="timelineEventReviewed" format="reference" />
+    <attr name="timelineEventBranchIcon" format="reference" />
 
     <declare-styleable name="LabelBadgeView">
         <attr name="badgeSize" format="dimension" />
